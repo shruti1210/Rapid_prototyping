@@ -1,1 +1,1 @@
-#Slicing Algorithm
+Slicing Algorithm
